@@ -43,8 +43,6 @@ Base URLs:
 This operation does not require authentication
 </aside>
 
-<a class='swag-try'>Try on swagger </a>
-
 <h1 id="connectme-api-message">Message</h1>
 
 ## MessageController_getMessagesForConversation
@@ -336,8 +334,6 @@ bearer
 This operation does not require authentication
 </aside>
 
-<a class='swag-try'>Try on swagger </a>
-
 ## MessageController_messageStatusIn
 
 <a id="opIdMessageController_messageStatusIn"></a>
@@ -368,8 +364,6 @@ This operation does not require authentication
 <aside class="success">
 This operation does not require authentication
 </aside>
-
-<a class='swag-try'>Try on swagger </a>
 
 ## MessageController_startNewChat
 
@@ -402,8 +396,6 @@ This operation does not require authentication
 This operation does not require authentication
 </aside>
 
-<a class='swag-try'>Try on swagger </a>
-
 ## MessageController_searchMessage
 
 <a id="opIdMessageController_searchMessage"></a>
@@ -419,8 +411,6 @@ This operation does not require authentication
 <aside class="success">
 This operation does not require authentication
 </aside>
-
-<a class='swag-try'>Try on swagger </a>
 
 <h1 id="connectme-api-authenticate">Authenticate</h1>
 
@@ -472,8 +462,6 @@ This operation does not require authentication
 <aside class="success">
 This operation does not require authentication
 </aside>
-
-<a class='swag-try'>Try on swagger </a>
 
 ## AuthController_login
 
@@ -537,8 +525,6 @@ This operation does not require authentication
 This operation does not require authentication
 </aside>
 
-<a class='swag-try'>Try on swagger </a>
-
 <h1 id="connectme-api-contact">Contact</h1>
 
 ## ContactController_getAll
@@ -556,8 +542,6 @@ This operation does not require authentication
 <aside class="success">
 This operation does not require authentication
 </aside>
-
-<a class='swag-try'>Try on swagger </a>
 
 ## ContactController_update
 
@@ -590,8 +574,6 @@ This operation does not require authentication
 This operation does not require authentication
 </aside>
 
-<a class='swag-try'>Try on swagger </a>
-
 ## ContactController_getMessagesForConversation
 
 <a id="opIdContactController_getMessagesForConversation"></a>
@@ -607,8 +589,6 @@ This operation does not require authentication
 <aside class="success">
 This operation does not require authentication
 </aside>
-
-<a class='swag-try'>Try on swagger </a>
 
 <h1 id="connectme-api-conversation">Conversation</h1>
 
